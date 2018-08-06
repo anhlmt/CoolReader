@@ -1,3 +1,3 @@
 # CoolReader
-#Manage book on local computer.
-#Java Swing application, JDBC, SQL Server 2017.
+<b>Manage book on local computer.</b><br />
+Java Swing application, JDBC, SQL Server 2017.
