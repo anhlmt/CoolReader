@@ -1,2 +1,3 @@
 # CoolReader
-Java Swing application to manage book with SQL Server 2017
+Java Swing application, SQL Server 2017.
+Manage book on local computer.
